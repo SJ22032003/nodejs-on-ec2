@@ -34,13 +34,13 @@ npm -v
 To install git, run below commands in the terminal window:
 
 ```bash
-sudo apt-get update -y
-sudo apt-get install git -y
+sudo get-apt update -y
+sudo get-apt install git -y
 ```
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git - version
 ```
 
 This command will print the git version in the terminal.
